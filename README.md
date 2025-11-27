@@ -45,7 +45,7 @@ El código está organizado en las siguientes clases:
 ### Pasos
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+    git clone https://github.com/Angelo270204/challenge-conversor.git
     ```
 2.  Abre el proyecto en tu IDE favorito (IntelliJ IDEA, Eclipse, etc.).
 3.  Asegúrate de importar la librería `com.google.gson`.
